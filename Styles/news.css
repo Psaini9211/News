@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#news_page {
+  margin-left: 20%;
+  text-align: center;
+}
+#news_page img {
+  width: 500px;
+}
